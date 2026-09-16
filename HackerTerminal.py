@@ -5,7 +5,7 @@ print("=== Login Terminal ===")
 name = input("Username: ")
 age = input("Age: ")
 
-print("Access Granted")
+print("=== Access Granted ===")
 
 timenow = datetime.now()
 
