@@ -15,4 +15,4 @@ print("Your name:" , name)
 print("Your age:" , age)
 print("Time now:" , timenow.time())
 
-print("Have a nice day!")
+print("=== Have a nice day! ===")
